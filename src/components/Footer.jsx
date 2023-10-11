@@ -8,7 +8,7 @@ export const Footer = () => {
                 <div className="container py-2">
                     <div className="row gy-4 gx-5">
                         <div className="col-lg-4 col-md-5">
-                            <NavLink className="" to="/"><img src="public/images2/footerlogos.png" alt="logo" className="img-fluid" /></NavLink>
+                            <NavLink className="" to="/"><img src="public/images/footerlogos.png" alt="logo" className="img-fluid" /></NavLink>
                             <br />
                             <p className="small text-muted">Los mejores celulares | Respaldo ProPhone</p>
                         </div>

@@ -79,7 +79,7 @@ export const LoginForm = () => {
                             />
                         </div>
                         <button className="btn btn-primary" type="submit">Iniciar Sesion</button>
-                        <img src="public/images2/hand.jpeg" alt="phonehand"  width={400} height={350} />
+                        <img src="public/images/hand.jpeg" alt="phonehand"  width={400} height={350} />
                     </div>
                 </form>
             </div>

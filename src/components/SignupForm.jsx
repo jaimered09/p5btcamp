@@ -118,7 +118,7 @@ export const SignupForm = () => {
                     <div className="d-flex justify-content-center align-items-center text-center">
                         <button className="btn btn-primary" type="submit">Registrame</button>
                     </div>
-                    <img src="public/images2/iPhone-14 header copy.jpg" alt="iphones" />
+                    <img src="public/images/iPhone-14 header copy.jpg" alt="iphones" />
                 </form>
             </div>
         </>

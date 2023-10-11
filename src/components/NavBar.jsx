@@ -7,7 +7,7 @@ export const NavBar = () => {
             <nav className="navbar navbar-expand-lg custom-navbar-background">
                 <div className="container-fluid">
                     <NavLink className="navbar-brand" to="/">
-                        <img src="public/images2/logophone copy2.jpg" alt="logo" className="img-fluid" />
+                        <img src="public/images/logophone copy2.jpg" alt="logo" className="img-fluid" />
                     </NavLink>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
@@ -28,7 +28,7 @@ export const NavBar = () => {
                             <li className="nav-item">
                                 <NavLink className="nav-link" to="/login">Iniciar Sesión</NavLink>
                             </li>
-                            <img src="public/images2/session-join-svgrepo-com copy.gif" width={35} alt="logosesion" />
+                            <img src="public/images/session-join-svgrepo-com copy.gif" width={35} alt="logosesion" />
                         </ul>
                     </div>
                 </div>
