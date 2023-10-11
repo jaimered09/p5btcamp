@@ -13,13 +13,13 @@ export const Carousel = () => {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="public/assets/images/iPhone-14 header copy.webp" className="d-block w-100" alt="..." width="1440" height="620" />
+                        <img src="/public/assets/images/iPhone-14 header copy.webp" className="d-block w-100" alt="..." width="1440" height="620" />
                     </div>
                     <div className="carousel-item">
-                        <img src="public/assets/images/carouselheader.webp" className="d-block w-100" alt="..." width="1440" height="620" />
+                        <img src="/public/assets/images/carouselheader.webp" className="d-block w-100" alt="..." width="1440" height="620" />
                     </div>
                     <div className="carousel-item">
-                        <img src="public/assets/images/bannerheader iphone2- copy.webp" className="d-block w-100" alt="..." width="1440" height="620" />
+                        <img src="/public/assets/images/bannerheader iphone2- copy.webp" className="d-block w-100" alt="..." width="1440" height="620" />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
