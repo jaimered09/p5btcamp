@@ -39,7 +39,7 @@ export const Carousel = () => {
             <div className="row">
                 <div className="col-sm-6 col-md-4 mb-2">
                     <div className="thumbnail">
-                        <img src="public/images/iconmobile.png" alt="phone1" />
+                        <img src="images/iconmobile.png" alt="phone1" />
                         <div className="caption">
                             <h3>Samsung Galaxy S23</h3>
                             <p><a to="#" className="btn btn-primary" role="button">Comprar</a> <a to="#" className="btn btn-default" role="button">Ver</a></p>
@@ -48,7 +48,7 @@ export const Carousel = () => {
                 </div>
                 <div className="col-sm-6 col-md-4 mb-2">
                     <div className="thumbnail">
-                        <img src="public/images/iconmobile.png" alt="phone2" />
+                        <img src="images/iconmobile.png" alt="phone2" />
                         <div className="caption">
                             <h3>Samsung Galaxy S22</h3>
                             <p><a to="#" className="btn btn-primary" role="button">Comprar</a> <a to="#" className="btn btn-default" role="button">Ver</a></p>
@@ -57,7 +57,7 @@ export const Carousel = () => {
                 </div>
                 <div className="col-sm-6 col-md-4 mb-2">
                     <div className="thumbnail">
-                        <img src="public/images/iconmobile.png" alt="phone3" />
+                        <img src="images/iconmobile.png" alt="phone3" />
                         <div className="caption">
                             <h3>Samsung Galaxy S21</h3>
                             <p><a to="#" className="btn btn-primary" role="button">Comprar</a> <a to="#" className="btn btn-default" role="button">Ver</a></p>
@@ -66,12 +66,12 @@ export const Carousel = () => {
                 </div>
             </div>
             <div>
-                <img src="public/images/header_landing_todo copy.png" alt="" />
+                <img src="images/header_landing_todo copy.png" alt="" />
             </div>
             <div className="titular2">
                 <h4> CONOCE LA NORMATIVA DE LA SUBTEL AQUÍ</h4>
-                <img src="public/images/logo_subtel_reducido.png" alt="" />
-                <img src="public/images/banner 5g.png" alt="" />
+                <img src="images/logo_subtel_reducido.png" alt="" />
+                <img src="images/banner 5g.png" alt="" />
             </div>
         </>
     )
