@@ -1,0 +1,11 @@
+
+.search-box {
+    display: flex;
+    align-items: center;
+}
+
+.search-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

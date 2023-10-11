@@ -1,0 +1,18 @@
+/* Estilos para el contenedor principal que abarca todo el contenido de la página */
+
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+  }
+  
+  /* Estilos para el footer */
+  .Footer {
+    margin-top: auto; /* Empuja el footer hacia la parte inferior del contenedor */
+    background-color: #f0f0f0; /* Ajusta el color de fondo según tus preferencias */
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  

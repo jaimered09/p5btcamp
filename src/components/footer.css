@@ -1,0 +1,14 @@
+
+
+.footer-yellow-bg {
+    background-color: whitesmoke;
+}
+
+#lista a {
+    text-decoration: none;
+    color: firebrick;
+}
+
+#lista a:hover {
+    color: #053ea3;
+}
